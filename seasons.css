@@ -1,0 +1,53 @@
+body {
+	background-color: paleturquoise; 
+
+}
+
+h1 {
+	font-size: 50px;
+	float:center;
+	text-align: center;
+	color:purple;
+	background-color: skyblue;
+	padding:5px;
+	border:10px;
+	border-radius: 15px;
+}
+
+li {
+	display: inline;
+	margin: 25px;
+	font-size: 23px;
+	padding:5px;
+}
+
+h3 {
+	font-size:25px;
+	margin-top: 20px;
+	margin-left:15px;
+	font-style: arial;
+
+}
+ 
+p {
+	font-size: 20px;
+	font-style: arial;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 5px;
+} 
+
+#nav {
+	float: center;
+	text-align: center;
+	background-color: Thistle;
+	padding:10px;
+	padding-top:0px;
+	margin:0px;
+	font-weight: bold;
+	font-family: serif;
+	border:10px;
+	border-radius: 15px;
+}
+
+

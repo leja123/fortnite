@@ -1,0 +1,54 @@
+body {
+	background-color: paleturquoise; 
+
+}
+
+h1 {
+	font-size: 50px;
+	float:center;
+	text-align: center;
+	color:purple;
+	background-color: skyblue;
+	padding:5px;
+	border:10px;
+	border-radius: 15px;
+}
+
+li {
+	display: inline;
+	margin: 25px;
+	font-size: 23px;
+	padding:5px;
+}
+
+
+h3 {
+	font-size: 25px;
+	margin-right: 30px;
+	margin-top: 15px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	;
+}
+
+#nav {
+	float: center;
+	text-align: center;
+	background-color: Thistle;
+	padding:10px;
+	padding-top:0px;
+	margin:0px;
+	font-weight: bold;
+	font-family: serif;
+	border:10px;
+	border-radius: 15px;
+}
+
+.small {
+	width: 55%;
+}
+

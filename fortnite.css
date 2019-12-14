@@ -1,0 +1,78 @@
+body {
+	background-color: paleturquoise;
+}
+
+h1{
+	font-size: 50px;
+	float: center;
+	text-align: center;
+	color:purple;
+	background-color: skyblue;
+	padding:5px;
+	border:10px;
+	border-radius: 15px;
+}
+
+li {
+	display: inline;
+	margin: 25px;
+	font-size: 23px;
+	padding:5px;
+}
+
+p {
+	font-size: 25px;
+	text-align: justify;
+	float: left;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+
+
+.center {
+	display: block;
+    width: 32%;
+    padding: 100px;
+       
+}
+
+
+#nav {
+	float: center;
+	text-align: center;
+	background-color: Thistle;
+	padding:10px;
+	padding-top:0px;
+	margin:0px;
+	font-weight: bold;
+	font-family: serif;
+	border:10px;
+	border-radius: 15px;
+
+}
+
+.slika {
+	display: block;
+	width:32%;
+	padding: 100px;
+}
+
+.slika2 {
+	display: block;
+	width: 1000px;
+	padding: 100px;
+}
+
+.slika3{
+	display:block;
+	width: 32%;
+	padding: 100px;
+}
+
+.slika4 {
+	display:block;
+	width: 32%;
+	padding: 100px;
+}
+
